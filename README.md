@@ -1,6 +1,22 @@
+# dosfiles
+
+A collection of my settings, customisations, and configuration files for Windows. Generally registry edits, automation, and quality-of-life improvements.
+
+## Installation
+
+Prerequisities:
+
+* Install [chocolatey](https://chocolatey.org/docs/installation)
+
+Instructions
+
+* Run `.\install.ps1`
+
+## License
+
 MIT License
 
-Copyright (c) 2019 Andrew Lamzed-Short
+Copyright (c) 2018 Andrew Lamzed-Short
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
